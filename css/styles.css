@@ -1,0 +1,34 @@
+.WELCOME{
+    background-image: url('../image/welcome1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 17%;
+}
+.services{
+    background-image: url('../image/welcome2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 17%;
+}
+.CONTACT{
+    background-image: url('../image/contacts.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 17%;
+}
+.ABOUT{
+    text-align:center
+}
+.PORTFOLIO{
+    text-align: center;
+    background-position: center;
+}
